@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1737de39b9727a4788c78e85c95f5c1, type: 3}
+  m_Name: Betsy
+  m_EditorClassIdentifier: 
+  SpeakerName: Betsy
+  TextColor: {r: 1, g: 0, b: 0.15016556, a: 1}
+  sprites:
+  - {fileID: 8224124334607301300, guid: c739b0f82735af846bab54cf62974760, type: 3}
+  - {fileID: 7946739453343321082, guid: c739b0f82735af846bab54cf62974760, type: 3}
+  - {fileID: 3479983707309357564, guid: c739b0f82735af846bab54cf62974760, type: 3}
+  - {fileID: 8357293588786038174, guid: c739b0f82735af846bab54cf62974760, type: 3}
+  - {fileID: -1588707430369709868, guid: c739b0f82735af846bab54cf62974760, type: 3}
+  prefab: {fileID: 7485189169527957567, guid: 9824d91a16c615e40a68d3209ed99585, type: 3}

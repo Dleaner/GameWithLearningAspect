@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f11c562269e87144f966ae1dd9b08aad, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  Sentences:
+  - Text: HA ha ha...
+    Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+    Actions:
+    - Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+      SpriteIndex: 0
+      ActionType: 1
+      Coords: {x: 400, y: 0}
+      MoveSpeed: 0
+    Music: {fileID: 8300000, guid: f695c7d197b5d114d9675d5e066a5e86, type: 3}
+    Sound: {fileID: 0}
+  - Text: Okay...
+    Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+    Actions:
+    - Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+      SpriteIndex: 2
+      ActionType: 2
+      Coords: {x: 0, y: 0}
+      MoveSpeed: 1
+    Music: {fileID: 0}
+    Sound: {fileID: 0}
+  - Text: (
+    Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+    Actions:
+    - Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
+      SpriteIndex: 2
+      ActionType: 3
+      Coords: {x: 400, y: 0}
+      MoveSpeed: 1
+    Music: {fileID: 0}
+    Sound: {fileID: 0}
+  BackGround: {fileID: 21300000, guid: 2e7f905ffa9ca8b4cb4d58ee34c70859, type: 3}
+  NextScene: {fileID: 11400000, guid: 3aabb5a3e9170e64883f1d7a90e4ea00, type: 2}
