@@ -202,7 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33695af220bb27b4e99b16071e48d8b1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CurrentScene: {fileID: 11400000, guid: 0516c433f3a5e2a4298aea078866d28c, type: 2}
+  CurrentScene: {fileID: 11400000, guid: d122424448dfe24428c256fd70eaad79, type: 2}
   _bottomBar: {fileID: 2049741037}
   _backGroundController: {fileID: 1105316784}
   _chooseController: {fileID: 870525384}

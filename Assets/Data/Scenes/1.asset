@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: 1
   m_EditorClassIdentifier: 
   Sentences:
-  - Text: Hi shitter..
+  - Text: hier..
     Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}
     Actions:
     - Speaker: {fileID: 11400000, guid: ee57d06266bda514aa74c77fa7415ee7, type: 2}

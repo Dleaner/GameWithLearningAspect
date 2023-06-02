@@ -19,8 +19,6 @@ public class BottomBarController : MonoBehaviour
     private Coroutine _typingRoutine;
     private float _speedFactor = 1f;
 
-
-
     private enum State
     {
         PLAYING,
